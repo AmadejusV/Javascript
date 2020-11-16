@@ -1,6 +1,7 @@
 div{
     padding-top: 40px;
     text-align: center;
+    justify-content: center;
 }
 .imgs{
     list-style-type:none;
@@ -12,4 +13,8 @@ div{
     height: 250px;
     margin: 5px;
     padding: 5px;
+}
+button{
+    margin: 5px;
+    padding: 0;
 }
