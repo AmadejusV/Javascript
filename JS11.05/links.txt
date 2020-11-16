@@ -1,0 +1,5 @@
+API's
+
+http://web-training.lt/img_api/img/1.png
+
+http://web-training.lt/img_api/

@@ -1,0 +1,15 @@
+div{
+    padding-top: 40px;
+    text-align: center;
+}
+.imgs{
+    list-style-type:none;
+    width: 100%;
+ 
+}
+.imgs li img{
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+    padding: 5px;
+}
