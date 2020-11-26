@@ -1,13 +1,19 @@
+import React from "react";
+import Container from "react-bootstrap/Container";
+import {NavLink} from "react-router-dom";
+
+
 function Nav(){
     return(
-        <nav>
-            <li><a href="#">linkas</a></li>
-            <li><a href="#">linkas</a></li>
-            <li><a href="#">linkas</a></li>
-            <li><a href="#">linkas</a></li>
-            <li><a href="#">linkas</a></li>
-            <li><a href="#">linkas</a></li>
-        </nav>
+        <Container>
+            <nav>
+                <ul>
+                    <li><NavLink exact to="/">Pradinis</NavLink></li>
+                    <li><NavLink to="/form/">Forma</NavLink></li>
+                </ul>
+            </nav>
+        </Container>
+
     )
 }
 

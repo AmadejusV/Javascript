@@ -8,6 +8,7 @@ function Movie(props){
                     <img className="imgCards" src={props.imgUrl}/>
                     <h5 className="card-title">{props.pavadinimas}</h5>
                     <p className="card-text">{props.aprasymas}</p>
+                    <p className="card-text">{props.plot}</p>
                     <a href="#" className="btn btn-primary">Placiau</a>
                 </div>
             </div>

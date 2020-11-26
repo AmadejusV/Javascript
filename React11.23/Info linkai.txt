@@ -1,0 +1,7 @@
+https://reactjs.org/docs/state-and-lifecycle.html
+
+https://slides.com/martynas-kitm/react#/0/31
+
+https://reactjs.org/docs/events.html#supported-events
+
+https://reactjs.org/docs/state-and-lifecycle.html#converting-a-function-to-a-class
